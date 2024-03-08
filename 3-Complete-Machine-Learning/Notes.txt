@@ -1,0 +1,26 @@
+Machine Learning Process
+
+Data Pre-processing
+1. Import the data
+2. Clean the data 
+3. Split into training & test sets
+
+Modelling
+1. Build the model 
+2. Train the Model 
+3. Make predictions 
+
+Evaluations 
+1. Calculate performance metrics 
+2. Make a verdict 
+
+## Feature Scaling 
+
+
+
+
+# DAY 1 LEARNING IN PUBLIC
+1. Machine Learning Processes 
+2. Feature Scaling 
+3. What is data pre-processing 
+ 
